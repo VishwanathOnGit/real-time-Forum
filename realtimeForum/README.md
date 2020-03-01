@@ -83,4 +83,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # Real Time Forum using Laravel and VueJS
 
-## Development of Real Time Forum using latest Web Tech.
+Development of Real Time Forum using latest Web Tech.
